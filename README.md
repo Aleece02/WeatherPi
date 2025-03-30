@@ -2,13 +2,13 @@
 
 A simple Python application using Tkinter, Requests, and TtkBootstrap.
 
-Installation
+# Installation
 
-# Prerequisites
+### Prerequisites
 
 Ensure you have Python 3.7+ installed. You can download it from python.org.
 
-#Install Dependencies
+### Install Dependencies
 
 Use the following command to install the required libraries:
 
