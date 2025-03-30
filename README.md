@@ -4,7 +4,7 @@ A simple Python application using Tkinter, Requests, and TtkBootstrap.
 
 Installation
 
-#Prerequisites
+# Prerequisites
 
 Ensure you have Python 3.7+ installed. You can download it from python.org.
 
@@ -26,7 +26,7 @@ Linux (Ubuntu/Debian):
 
 sudo apt-get install python3-tk
 
-#Usage
+# Usage
 
 Run the Python script using:
 
@@ -34,7 +34,7 @@ python main.py
 
 This will launch the Tkinter-based GUI application.
 
-#Features
+# Features
 
 GUI built using Tkinter
 
@@ -42,6 +42,6 @@ Requests used for fetching data from APIs
 
 TtkBootstrap for modern styling
 
-#License
+# License
 
 This project is licensed under the MIT License.
