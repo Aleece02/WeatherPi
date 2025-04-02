@@ -42,6 +42,4 @@ Requests used for fetching data from APIs
 
 TtkBootstrap for modern styling
 
-# License
 
-This project is licensed under the MIT License.
